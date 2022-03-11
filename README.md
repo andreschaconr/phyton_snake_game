@@ -15,7 +15,7 @@ $ cd phyton_nake_game
  ## Pre-requirements 📋
 If you want to execute tests and develop this project you must have any code editor like Visual studio code. To run this project you must have python installed on your computer and must have Python install
 
-  ## run desktop aplication
+  ## Run desktop aplication
 
 -$ python main.py on windows or Mac
 or
